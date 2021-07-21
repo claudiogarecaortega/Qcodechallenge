@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{26652574-6C56-4106-B04A-750E04C10AF1}|Default">
+  <MonoDevelop.Ide.ItemProperties.challenge PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="challenge/Helpers/Enumerator.cs">
+    <Files>
+      <File FileName="challenge/Program.cs" Line="26" Column="1" />
+      <File FileName="challenge/Helpers/AlphaNumericGenerator.cs" Line="22" Column="68" />
+      <File FileName="challenge/Helpers/MatrixGenerator.cs" Line="37" Column="53" />
+      <File FileName="challenge/Helpers/Enumerator.cs" Line="5" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="qcodechallenge" expanded="True">
+            <Node name="challenge" expanded="True">
+              <Node name="Helpers" expanded="True">
+                <Node name="Enumerator.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.challengeTests FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
